@@ -15,9 +15,14 @@
 
 
   
-![https://drive.google.com/file/d/1NMpc4gEuwQVaaUYce8SQrgt0zx_nIzV9/view?usp=sharing](https://drive.google.com/file/d/1NMpc4gEuwQVaaUYce8SQrgt0zx_nIzV9/view?usp=sharing)
-## 🔎 Descrição
+<p align="center">
+  <img src="https://github.com/2025-2-NADS4/Projeto2/blob/main/imagens/LogoElevare.jpeg" alt="Logo Elevare" width="400"/>
+</p>
 
+## 🔎 Descrição
+O Elevare é um projeto desenvolvido para a Cannoli, uma startup foodtech que oferece uma plataforma completa de CRM, automação de engajamento, cardápio digital e delivery próprio.
+
+A iniciativa tem como objetivo a criação de um dashboard interativo, responsivo e inteligente, capaz de fornecer uma visão estratégica e operacional tanto para os administradores da Cannoli quanto para seus clientes (restaurantes e parceiros de negócio).
 
 
 ## 📂 Estrutura de Pastas 
@@ -51,3 +56,11 @@
 
 ## 🗂️ Descrição das Pastas
 Navegue pelas pastas do projeto e entenda o que cada uma contém:
+
+## 🖥️ Ferramentas de Desenvolvimento
+<p align="center">
+  <img src="https://github.com/2025-2-NADS4/Projeto2/blob/main/imagens/FerramentasUtilizadas.png" alt="Ferramentas" width="400"/>
+</p>
+
+## 📋 Licença/License
+Este trabalho está licenciado sob [Elevare](https://github.com/2025-2-NADS4/Projeto2)© 2025 de Anie Bissoli, Bruna Farias, Erika Santana e Luiza Correa, está licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1).
