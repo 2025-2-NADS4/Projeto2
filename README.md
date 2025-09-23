@@ -11,3 +11,43 @@
 
 
 ## 👨‍🏫 Professores Orientadores:<a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>,<a href="https://www.linkedin.com/in/francisco-escobar/">Eduardo Savino</a>,<a href="https://www.linkedin.com/in/vheltai/">Lucy Mary</a>, <a href="https://www.linkedin.com/in/jefferson-o-silva/">Edson Barbeiro</a> e <a href="https://www.linkedin.com/in/jefferson-o-silva/">Ronaldo Araujo</a>.
+
+
+
+  
+![https://drive.google.com/file/d/1NMpc4gEuwQVaaUYce8SQrgt0zx_nIzV9/view?usp=sharing](https://drive.google.com/file/d/1NMpc4gEuwQVaaUYce8SQrgt0zx_nIzV9/view?usp=sharing)
+## 🔎 Descrição
+
+
+
+## 📂 Estrutura de Pastas 
+
+📁 Raiz  
+├── 📁 documentos  
+│   ├── 📁 Entrega 1  
+│   │   ├── 📁 
+│   │   ├── 📁 
+│   │   ├── 📁  
+│   │   └── 📁   
+│   ├── 📁 Entrega 2  
+│   │   ├── 📁   
+│   │   ├── 📁   
+│   │   ├── 📁   
+│   │   └── 📁   
+├── 📁 imagens  
+│
+├── 📁 src  
+│   ├── 👩‍💻 📁 Backend  
+│   │   ├── 📁 config  
+│   │   ├── 📁 controllers  
+│   │   ├── 📁 middlewares  
+│   │   ├── 📁 models  
+│   │   └── 📁 routes  
+│   │
+│   └── 🎨 📁 Frontend  
+│       └── 📁 Elevare 
+│
+└── 📄 readme.md
+
+## 🗂️ Descrição das Pastas
+Navegue pelas pastas do projeto e entenda o que cada uma contém:
