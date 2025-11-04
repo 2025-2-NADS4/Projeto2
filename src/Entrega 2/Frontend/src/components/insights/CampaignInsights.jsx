@@ -17,7 +17,7 @@ export default function CampaignSummary({
 
   return (
     <section className="flex flex-col gap-8">
-      {/* INSIGHTS DE CAMPANHAS */}
+      {/* 📊 INSIGHTS DE CAMPANHAS */}
       <div className={`${bg} p-6 rounded-2xl shadow-lg border ${border}`}>
         <h2 className="text-[#FFD700] font-semibold mb-3 text-lg">
           Insights de Campanhas
@@ -46,7 +46,7 @@ export default function CampaignSummary({
         </div>
       </div>
 
-      {/* RECOMENDAÇÕES */}
+      {/* 💡 RECOMENDAÇÕES */}
       <div className={`${bg} p-6 rounded-2xl shadow-lg border ${border}`}>
         <h2 className="text-[#FFD700] font-semibold mb-3 text-lg flex items-center gap-2">
           <Lightbulb className="text-[#FFD700]" /> Recomendações
